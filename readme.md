@@ -13,7 +13,7 @@ open a shell and run
 ### Windows
 open powershell and run
 
-` docker run -it -v $PWD:/workspace log710c:v1`
+` docker run -it -v ${PWD}:/workspace log710c:v1`
 
 ## Snapshot with docker :D 🎉
 https://winsmarts.com/snapshot-a-docker-container-20df59bbd473
