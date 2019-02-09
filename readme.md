@@ -1,3 +1,7 @@
+# os-programming-learning
+
+Repo for my LOG710 course (operating system programming) as part of my software engineering degree @etsmtl. Hosts exercises and experiments i do while learning the course's content
+
 ## Build the image
 `docker build -t log710c:v1 .`
 ## Run the container
